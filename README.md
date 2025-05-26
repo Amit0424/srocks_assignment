@@ -1,16 +1,23 @@
-# music_studio_assignment
+# Mini Project – “Music Services Module (Single Screen)”
 
-A new Flutter project.
+## 🗓️ Deadline
+**11:59 PM | 26th May, 2025**
 
-## Getting Started
+## 🎯 Objective
+To evaluate the ability to build responsive UI using Flutter, manage state effectively, and integrate Firebase Firestore or Realtime Database (read-only).  
+This assignment mirrors a real module inside the **S.Rocks.Music** app.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Flutter**: 3.24.4
+- **Firebase**: Firestore / Realtime Database (Read-only)
 
-A few resources to get you started if this is your first Flutter project:
+## ⚙️ Requirements
+- Responsive UI
+- Effective State Management
+- Read-only Firebase integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
+Ensure you have Flutter **3.24.4** installed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter --version
